@@ -1,0 +1,9 @@
+{
+  "movies":[
+    {"id": 1, "title": "Movie1", "plot": "Very Beautiful Movie1", "director": "Director of Movie1", "actors": "Actor1, Actor2, Actor3"},
+    {"id": 2, "title": "Movie2", "plot": "Very Beautiful Movie2", "director": "Director of Movie2", "actors": "Actor1, Actor2, Actor3"},
+    {"id": 3, "title": "Movie3", "plot": "Very Beautiful Movie3", "director": "Director of Movie3", "actors": "Actor1, Actor2, Actor3"},
+    {"id": 4, "title": "Movie4", "plot": "Very Beautiful Movie4", "director": "Director of Movie4", "actors": "Actor1, Actor2, Actor3"},
+    {"id": 5, "title": "Movie5", "plot": "Very Beautiful Movie5", "director": "Director of Movie5", "actors": "Actor1, Actor2, Actor3"}
+    ]
+}
