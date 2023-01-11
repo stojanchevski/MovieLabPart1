@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Zoro",
+    "director": "Director of Movie 1",
+    "plot": "Very nice movie 1",
+    "actors": "Actor1, Actor2, Actor3"
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "director": "Director of Movie 2",
+    "plot": "Very nice movie 2",
+    "actors": "Actor1, Actor2, Actor3"
+  },
+  {
+    "id": 3,
+    "title": "300",
+    "director": "Director of Movie 3",
+    "plot": "Very nice movie 3",
+    "actors": "Actor1, Actor2, Actor3"
+  },
+  {
+    "id": 4,
+    "title": "Bandit",
+    "director": "Director of Movie 4",
+    "plot": "Very nice movie 4",
+    "actors": "Actor1, Actor2, Actor3"
+  }
+]
